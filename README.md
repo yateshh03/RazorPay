@@ -1,23 +1,46 @@
-# Razorpay Clone
+# 💳 Razorpay Clone Website
 
-This project is a clone of the popular payment gateway platform Razorpay, recreated using HTML and Tailwind CSS. It aims to replicate the functionality and aesthetics of the original platform while also serving as a demonstration of front-end development skills.
+## 📌 Description
 
-## Features
+This is a responsive Razorpay landing page clone built using HTML, CSS, and Tailwind CSS. The project focuses on creating a modern UI with smooth animations and a clean layout inspired by the original Razorpay website.
 
-- **User-friendly Interface**: Enjoy seamless navigation and intuitive controls.
-- **Secure Payment Integration**: Experience hassle-free transactions with robust payment gateway integration.
-- **Responsive Design**: Access the platform from any device with ease, thanks to its responsive layout.
+## 🚀 Live Demo
 
-## Getting Started
+https://your-link.vercel.app
 
-To get started with this project, simply clone the repository to your local machine:
+## 🛠️ Tech Stack
 
-    https://github.com/Nitin-Gumber/RozarPay-Clone.git
+* HTML
+* CSS
+* Tailwind CSS
+* AOS (Animate On Scroll)
 
-## Credits
+## ✨ Features
 
-This project was created by Nitin Kumar. Feel free to connect with me on [LinkedIn](www.linkedin.com/in/nitin-gumber-web-dev) or [Twitter](https://x.com/Nitin601?t=qSGu3iYHLkaJ125phFl2eA&s=09)!
+* Fully responsive design (mobile, tablet, desktop)
+* Smooth scroll animations using AOS
+* Clean and modern UI
+* Reusable Tailwind utility classes
+* Optimised layout and spacing
 
-Special thanks to the following resources:
+## 📷 Screenshots
 
-- [Razorpay](https://razorpay.com/) for providing inspiration and serving as the model for this project.
+![Preview](./screenshot.png)
+
+## ⚙️ Installation & Setup
+
+Clone the repository and run locally:
+
+```bash
+npm install
+npm run dev
+```
+
+## 📅 Note
+
+This project was originally built in March 2025 and later refined and published on GitHub.
+
+## 🙌 Acknowledgement
+
+This project is inspired by the official Razorpay website and is built for learning and practice purposes only.
+
